@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "user_manager.h": "c",
+        "stdio.h": "c"
+    }
+}
